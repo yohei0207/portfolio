@@ -1,0 +1,23 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjapanese.css);
+body {
+	font-family: 'Noto Sans Japanese', sans-serif;
+    background-color: #f3eed5;
+}
+
+.my-title {
+    border-bottom: solid 2px #e4af9b;
+}
+
+.card {
+    background-color:#d4dfbb;
+}
+
+.my-img {
+    width: 31%;
+    height: auto;
+}
+
+.my-img-for-smartphone {
+    width: 20%;
+    height: auto;
+}
